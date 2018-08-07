@@ -1,0 +1,5 @@
+[opengate]
+host=api.opengate.es
+mqtt_port=1883
+apikey=yourapikey
+deviceid=yourdeviceid
